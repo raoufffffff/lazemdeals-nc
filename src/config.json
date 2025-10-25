@@ -5,7 +5,7 @@
   "main_color": "#001637ff",
   "phone": "0776966468",
   "repoName": "lazemdeals-nc",
-  "facebook": "https://www.facebook.com/",
+  "facebook": "https://www.facebook.com/profile.php?id=61582589771457",
   "instagram": "https://www.instagram.com/",
   "tiktok": "https://www.tiktok.com/",
   "email": "raouf.hamoudi.r@gmail.com",
@@ -33,5 +33,8 @@
     "id": "next-commerce"
   },
   "language": "ar",
-  "EnableBerue": false
+  "EnableBerue": false,
+  "whatsapp": "0776966468",
+  "viber": "",
+  "snapchat": ""
 }
