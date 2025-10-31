@@ -23,5 +23,39 @@
     "orders": 0,
     "date": "2025-10-25T05:06:04.363Z",
     "__v": 0
+  },
+  {
+    "imgs": [],
+    "_id": "6904fd4e597aec4ad347c432",
+    "userId": "68fc525f46093123dcfe2fc0",
+    "name": "Uwheys",
+    "price": 2000,
+    "ShortDescription": "Syuswuwu",
+    "LadingPages": [
+      "https://i.ibb.co/HL9D4GHX/blob.webp"
+    ],
+    "Variants": [],
+    "Offers": [],
+    "show": true,
+    "type": "",
+    "images": [
+      "https://i.ibb.co/ccKW3dSz/blob.webp",
+      "https://i.ibb.co/sdfbNd36/blob.webp",
+      "https://i.ibb.co/4n3rgMj5/blob.webp",
+      "https://i.ibb.co/xKDdfSq5/blob.webp",
+      "https://i.ibb.co/Y7F8wcVp/blob.webp",
+      "https://i.ibb.co/xKDdfSq5/blob.webp",
+      "https://i.ibb.co/4n3rgMj5/blob.webp",
+      "https://i.ibb.co/ccKW3dSz/blob.webp",
+      "https://i.ibb.co/sdfbNd36/blob.webp",
+      "https://i.ibb.co/b5ZHCKQN/blob.webp",
+      "https://i.ibb.co/k68Kb6Qk/blob.webp",
+      "https://i.ibb.co/mr49Zn1R/blob.webp",
+      "https://i.ibb.co/3mvwMPyK/blob.webp"
+    ],
+    "visit": 0,
+    "orders": 0,
+    "date": "2025-10-31T18:17:50.412Z",
+    "__v": 0
   }
 ]
