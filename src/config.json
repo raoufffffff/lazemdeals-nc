@@ -12,11 +12,13 @@
   "tiktokP": "",
   "FacebookP": "",
   "header": {
-    "name": true,
     "logo": true,
-    "headercolor": "#ffffff",
-    "namecolor": "#000000",
-    "barcolor": "#000000"
+    "name": true,
+    "headercolor": "#EF4444",
+    "namecolor": "#F59E0B",
+    "barcolor": "#3B82F6",
+    "search": true,
+    "undefined": "#EF4444"
   },
   "thanks": {
     "img": true,
