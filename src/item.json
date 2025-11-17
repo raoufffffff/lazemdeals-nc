@@ -72,5 +72,25 @@
     "orders": 0,
     "date": "2025-11-10T20:46:00.204Z",
     "__v": 0
+  },
+  {
+    "imgs": [],
+    "_id": "691a81fcc1ed2198fd30f78b",
+    "userId": "68fc525f46093123dcfe2fc0",
+    "name": "Raksh",
+    "price": 2000,
+    "ShortDescription": "Zhzhzhzjzj",
+    "LadingPages": [],
+    "Variants": [],
+    "Offers": [],
+    "show": true,
+    "type": "",
+    "images": [
+      "https://i.ibb.co/wFYVWqGd/b0857e18-b09e-412b-a2fa-c56ffcb9713c.jpg"
+    ],
+    "visit": 0,
+    "orders": 0,
+    "date": "2025-11-17T02:01:32.352Z",
+    "__v": 0
   }
 ]
