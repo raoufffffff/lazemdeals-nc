@@ -47,30 +47,5 @@
     "orders": 0,
     "date": "2025-10-31T18:19:52.825Z",
     "__v": 0
-  },
-  {
-    "imgs": [],
-    "_id": "69124f0863247a2ac3a31c01",
-    "userId": "68fc525f46093123dcfe2fc0",
-    "name": "Shshdhdh",
-    "price": 1200,
-    "ShortDescription": "Zbsbsbsbsb",
-    "LadingPages": [],
-    "Variants": [],
-    "Offers": [],
-    "show": true,
-    "type": "",
-    "images": [
-      "https://i.ibb.co/FqD4SzKg/blob.webp",
-      "https://i.ibb.co/ch9mSk9b/blob.webp",
-      "https://i.ibb.co/hFwQNrwr/blob.webp",
-      "https://i.ibb.co/8LFtJZ3g/blob.webp",
-      "https://i.ibb.co/fYmzx4Ww/blob.webp",
-      "https://i.ibb.co/Z1pDmfv3/blob.webp"
-    ],
-    "visit": 0,
-    "orders": 0,
-    "date": "2025-11-10T20:46:00.204Z",
-    "__v": 0
   }
 ]
