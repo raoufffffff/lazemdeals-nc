@@ -92,29 +92,5 @@
     "orders": 0,
     "date": "2025-11-17T02:01:32.352Z",
     "__v": 0
-  },
-  {
-    "imgs": [],
-    "_id": "691a828dc1ed2198fd30f78e",
-    "userId": "68fc525f46093123dcfe2fc0",
-    "name": "Zella",
-    "price": 2000,
-    "ShortDescription": "",
-    "LadingPages": [
-      "https://i.ibb.co/ymQgkbXC/91c6fc69-20f1-49da-bc41-7f4c038f1f6a.jpg"
-    ],
-    "Variants": [],
-    "Offers": [],
-    "show": true,
-    "type": "",
-    "images": [
-      "https://i.ibb.co/HDDYckYx/c5525eaa-df47-4b57-9711-fc8fcc4479f3.png",
-      "https://i.ibb.co/8gqwBKXq/510c59a8-ec95-4911-84d8-5208b3e1cf6e.png",
-      "https://i.ibb.co/Lz9LcxtZ/5cc030df-5a65-410e-b6f2-8e6dde1ec16a.png"
-    ],
-    "visit": 0,
-    "orders": 0,
-    "date": "2025-11-17T02:03:57.200Z",
-    "__v": 0
   }
 ]
