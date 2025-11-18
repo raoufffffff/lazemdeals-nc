@@ -1,26 +1,40 @@
 import { Outlet } from "react-router-dom";
 import Header from "./components/Header";
 import { useEffect, useRef } from "react";
-import getData from "./getData";
+import getData from "./getData"; // هذا object وليس function
 import ReactPixel from "react-facebook-pixel";
 
 function App() {
-  const { facebookPixel } = getData;
-  const pixelInitialized = useRef(false); // ✅ أفضل من let
+  const { facebookPixel, store_name, logo } = getData; // ← كما هي لأن getData ليست function
+
+  const pixelInitialized = useRef(false);
 
   useEffect(() => {
-    // ✅ Init Facebook Pixel once
-    if (facebookPixel.id && !pixelInitialized.current) {
+    // تغيير عنوان المتجر
+    window.document.title = store_name;
+
+    // تغيير الأيقونة Favicon
+    const changeFavicon = (url) => {
+      let link = document.querySelector("link[rel~='icon']");
+      if (!link) {
+        link = document.createElement("link");
+        link.rel = "icon";
+        document.head.appendChild(link);
+      }
+      link.href = url;
+    };
+
+    // إذا في logo → نضعه كأيقونة
+    if (logo) {
+      changeFavicon(logo);
+    }
+
+    // تفعيل Facebook Pixel مرة واحدة
+    if (facebookPixel?.id && !pixelInitialized.current) {
       ReactPixel.init(facebookPixel.id, {}, { debug: false });
       ReactPixel.pageView();
       pixelInitialized.current = true;
     }
-
-    // ✅ لو تريد تفعيل TikTok Pixel أيضًا أخبرني أضيفه لك هنا
-    // if (TiktokPixel?.id) {
-    //   initTikTokPixel(TiktokPixel.id);
-    // }
-
   }, []);
 
   return (
