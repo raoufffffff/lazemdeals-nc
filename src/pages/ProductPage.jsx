@@ -50,8 +50,12 @@ export default function ProductPage() {
     }, []);
 
     // 🟢 Visit Tracking
+    const hasVisited = useRef(false);
     useEffect(() => {
-        (async () => {
+        if (hasVisited.current) return;
+        hasVisited.current = true;
+
+        const visit = async () => {
             try {
                 await axios.put(
                     `https://true-fit-dz-api.vercel.app/user/visit/${_id}`,
@@ -62,13 +66,14 @@ export default function ProductPage() {
                         image: product?.images[0] || "",
                     }
                 );
-            } catch (err) {
-                console.log(err);
-
+            } catch (error) {
+                console.log(error);
             }
-        })();
-    }, []);
+        };
 
+        window.scrollTo({ top: 0, behavior: "smooth" });
+        visit();
+    }, []);
 
     // 🟢 Variants
     const colorOptions = product?.Variants?.find((v) => v.type === "color")?.options || [];
