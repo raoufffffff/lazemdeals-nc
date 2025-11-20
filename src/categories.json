@@ -1,11 +1,5 @@
 [
   {
-    "name": "Zella",
-    "image": "https://i.ibb.co/N6Gz7JWx/5d23af3c-eb98-44f0-9966-e3ad3c73a0fb.png",
-    "show": false,
-    "id": 1
-  },
-  {
     "name": "Anna",
     "image": "https://i.ibb.co/8gzPhBhj/73f1caa9-2923-439c-9541-471046d4e086.jpg",
     "show": true,
