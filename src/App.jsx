@@ -5,7 +5,7 @@ import getData from "./getData"; // هذا object وليس function
 import ReactPixel from "react-facebook-pixel";
 
 function App() {
-  const { facebookPixel, store_name, logo } = getData; // ← كما هي لأن getData ليست function
+  const { facebookPixel, store_name, logo, language } = getData; // ← كما هي لأن getData ليست function
 
   const pixelInitialized = useRef(false);
 
@@ -38,7 +38,7 @@ function App() {
   }, []);
 
   return (
-    <div dir="rtl">
+    <div dir={language == "ar" ? "rtl" : "ltr"}>
       <Header />
       <main className="min-h-[80vh]">
         <Outlet />
