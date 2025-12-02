@@ -82,5 +82,39 @@
     "orders": 0,
     "date": "2025-12-02T01:18:23.962Z",
     "__v": 0
+  },
+  {
+    "imgs": [],
+    "_id": "692e3f640bf384c6ffd7a021",
+    "userId": "68fc525f46093123dcfe2fc0",
+    "name": "U you y ",
+    "price": 6898,
+    "ShortDescription": "",
+    "LadingPages": [],
+    "Variants": [],
+    "Offers": [
+      {
+        "id": 0,
+        "name": "Yvycv",
+        "Quantity": "0",
+        "price": "79087",
+        "freedelevry": false,
+        "topOffer": true
+      }
+    ],
+    "show": true,
+    "type": "",
+    "images": [
+      "https://i.ibb.co/vCNWkXKD/blob.webp",
+      "https://i.ibb.co/7JSTKzTm/blob.webp",
+      "https://i.ibb.co/mrScjFXD/blob.webp",
+      "https://i.ibb.co/7JSTKzTm/blob.webp",
+      "https://i.ibb.co/svd9fXLD/blob.webp",
+      "https://i.ibb.co/hxgJBrNx/blob.webp"
+    ],
+    "visit": 0,
+    "orders": 0,
+    "date": "2025-12-02T01:22:44.770Z",
+    "__v": 0
   }
 ]
