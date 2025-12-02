@@ -116,5 +116,44 @@
     "orders": 0,
     "date": "2025-12-02T01:22:44.770Z",
     "__v": 0
+  },
+  {
+    "imgs": [],
+    "_id": "692e5c5f6405c4763f617e5f",
+    "userId": "68fc525f46093123dcfe2fc0",
+    "name": "d",
+    "price": 2000,
+    "ShortDescription": "",
+    "LadingPages": [
+      "https://i.ibb.co/zT6rQ4Ny/blob.webp"
+    ],
+    "Variants": [
+      {
+        "id": 0,
+        "name": "20",
+        "type": "color",
+        "options": [
+          {
+            "name": "lklk",
+            "color": "#ff0000"
+          },
+          {
+            "name": "lkklk",
+            "color": "#ffffff"
+          }
+        ],
+        "curentOption": ""
+      }
+    ],
+    "Offers": [],
+    "show": true,
+    "type": "",
+    "images": [
+      "https://i.ibb.co/Y4vXpRPk/blob.webp"
+    ],
+    "visit": 0,
+    "orders": 0,
+    "date": "2025-12-02T03:26:23.118Z",
+    "__v": 0
   }
 ]
