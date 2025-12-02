@@ -155,5 +155,91 @@
     "orders": 0,
     "date": "2025-12-02T03:26:23.118Z",
     "__v": 0
+  },
+  {
+    "imgs": [],
+    "_id": "692e5ec16405c4763f617e6d",
+    "userId": "68fc525f46093123dcfe2fc0",
+    "name": "anna",
+    "price": 2000,
+    "ShortDescription": "",
+    "LadingPages": [
+      "https://i.ibb.co/4wfvvCpf/blob.webp"
+    ],
+    "Variants": [
+      {
+        "id": 0,
+        "name": "size",
+        "type": "size",
+        "options": [
+          {
+            "name": "l"
+          },
+          {
+            "name": "xl"
+          },
+          {
+            "name": "2xl"
+          },
+          {
+            "name": "s"
+          },
+          {
+            "name": "m"
+          }
+        ],
+        "curentOption": ""
+      },
+      {
+        "id": 1,
+        "name": "color",
+        "type": "color",
+        "options": [
+          {
+            "name": "red",
+            "color": "#ff0000"
+          },
+          {
+            "name": "blue",
+            "color": "#1100ff"
+          },
+          {
+            "name": "green",
+            "color": "#00ff2a"
+          }
+        ],
+        "curentOption": ""
+      }
+    ],
+    "Offers": [
+      {
+        "id": 0,
+        "name": "best offer",
+        "Quantity": "3",
+        "price": "2000",
+        "freedelevry": true,
+        "topOffer": true
+      },
+      {
+        "id": 1,
+        "name": "khkh",
+        "Quantity": "20",
+        "price": "20000",
+        "freedelevry": false,
+        "topOffer": false
+      }
+    ],
+    "show": true,
+    "type": "",
+    "images": [
+      "https://i.ibb.co/kVBDz8rW/blob.webp",
+      "https://i.ibb.co/HLbBqhbP/blob.webp",
+      "https://i.ibb.co/zV3cyQjr/blob.webp",
+      "https://i.ibb.co/yBZjs1Vx/blob.webp"
+    ],
+    "visit": 0,
+    "orders": 0,
+    "date": "2025-12-02T03:36:33.686Z",
+    "__v": 0
   }
 ]
