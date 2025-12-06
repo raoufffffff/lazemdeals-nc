@@ -155,5 +155,94 @@
     "orders": 0,
     "date": "2025-12-02T03:26:23.118Z",
     "__v": 0
+  },
+  {
+    "imgs": [],
+    "_id": "69339abeaa6f11c6b1e4cb16",
+    "userId": "68fc525f46093123dcfe2fc0",
+    "name": "d",
+    "price": 200,
+    "ShortDescription": "lclklcklxklxck",
+    "LadingPages": [
+      "https://i.ibb.co/ymt03nBk/blob.webp",
+      "https://i.ibb.co/8nymQgT8/blob.webp"
+    ],
+    "Variants": [
+      {
+        "id": 0,
+        "name": "sele",
+        "type": "size",
+        "options": [
+          {
+            "name": "l;fl;l"
+          },
+          {
+            "name": "dsfdff"
+          },
+          {
+            "name": "gf"
+          },
+          {
+            "name": "fg"
+          },
+          {
+            "name": "gf"
+          },
+          {
+            "name": "dfg"
+          }
+        ],
+        "curentOption": ""
+      },
+      {
+        "id": 1,
+        "name": "color",
+        "type": "color",
+        "options": [
+          {
+            "name": "flkdf",
+            "color": "#5c3f88"
+          },
+          {
+            "name": "fdggf",
+            "color": "#ff0000"
+          },
+          {
+            "name": "gfgfgf",
+            "color": "#00ff33"
+          }
+        ],
+        "curentOption": ""
+      }
+    ],
+    "Offers": [
+      {
+        "id": 0,
+        "name": ";l;lf;fdl;",
+        "Quantity": "8",
+        "price": "1000",
+        "freedelevry": false,
+        "topOffer": true
+      },
+      {
+        "id": 1,
+        "name": "skddklk",
+        "Quantity": "2",
+        "price": "1000",
+        "freedelevry": true,
+        "topOffer": false
+      }
+    ],
+    "show": true,
+    "type": "",
+    "images": [
+      "https://i.ibb.co/zH8y58W0/blob.webp",
+      "https://i.ibb.co/LhBtY9Hj/blob.webp",
+      "https://i.ibb.co/fz35Tcg3/blob.webp"
+    ],
+    "visit": 0,
+    "orders": 0,
+    "date": "2025-12-06T02:53:50.248Z",
+    "__v": 0
   }
 ]
