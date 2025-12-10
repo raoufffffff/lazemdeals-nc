@@ -1,1 +1,49 @@
-[]
+[
+  {
+    "imgs": [],
+    "_id": "6938ed4675418b47ffe4b895",
+    "userId": "68fc525f46093123dcfe2fc0",
+    "name": "abderraouf hamoudi",
+    "price": 20000,
+    "ShortDescription": "ksdlkslkdlklkfsfklk",
+    "LadingPages": [],
+    "Variants": [
+      {
+        "id": 0,
+        "name": "sklk",
+        "type": "size",
+        "options": [
+          {
+            "name": "lslk"
+          },
+          {
+            "name": "klk"
+          },
+          {
+            "name": ";;l"
+          }
+        ],
+        "curentOption": ""
+      }
+    ],
+    "Offers": [
+      {
+        "id": 0,
+        "name": ";l;ls;l",
+        "Quantity": "3",
+        "price": "2000",
+        "freedelevry": true,
+        "topOffer": true
+      }
+    ],
+    "show": true,
+    "type": "",
+    "images": [
+      "https://i.ibb.co/j9wF0SQG/blob.webp"
+    ],
+    "visit": 0,
+    "orders": 0,
+    "date": "2025-12-10T03:47:18.750Z",
+    "__v": 0
+  }
+]
