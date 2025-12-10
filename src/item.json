@@ -1,31 +1,6 @@
 [
   {
     "imgs": [],
-    "_id": "692e3e5f0bf384c6ffd7a017",
-    "userId": "68fc525f46093123dcfe2fc0",
-    "name": "Uvubub",
-    "price": 40000,
-    "ShortDescription": "",
-    "LadingPages": [],
-    "Variants": [],
-    "Offers": [],
-    "show": true,
-    "type": "",
-    "images": [
-      "https://i.ibb.co/pjY8KM39/blob.webp",
-      "https://i.ibb.co/7JSTKzTm/blob.webp",
-      "https://i.ibb.co/7JSTKzTm/blob.webp",
-      "https://i.ibb.co/Q7Pmscwp/blob.webp",
-      "https://i.ibb.co/RpV0j2Fw/blob.webp",
-      "https://i.ibb.co/hxgJBrNx/blob.webp"
-    ],
-    "visit": 0,
-    "orders": 0,
-    "date": "2025-12-02T01:18:23.962Z",
-    "__v": 0
-  },
-  {
-    "imgs": [],
     "_id": "692e5c5f6405c4763f617e5f",
     "userId": "68fc525f46093123dcfe2fc0",
     "name": "d",
